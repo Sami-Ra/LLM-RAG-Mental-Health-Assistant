@@ -240,5 +240,5 @@ python test_rag.py         # Run a full end-to-end query
 
 **Samira Rasouli**
 
-Artificial Intelligence & Machine Learning
+Artificial Intelligence & Machine Learning,
 University of Waterloo
