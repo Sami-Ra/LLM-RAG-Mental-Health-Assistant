@@ -19,19 +19,19 @@ The RAG pipeline is domain-independent and can be adapted to any collection of P
 
 ### Question Answering
 
-![Main Interface](assets/main_interface.jpg)
+![Main Interface](assets/main_interface.png)
 
 The application retrieves the most relevant passages from the indexed knowledge base using semantic search and generates an evidence-based response through Retrieval-Augmented Generation (RAG).
 
 ### Generated Response
 
-![Generated Response](assets/Response.jpg)
+![Generated Response](assets/Response.png)
 
 The assistant answers the user's question using the retrieved document context.
 
 ### Supporting Evidence
 
-![Supporting Evidence](assets/supporting_evidence.jpg)
+![Supporting Evidence](assets/supporting_evidence.png)
 
 Each response is accompanied by the supporting document names, page numbers, similarity scores, and the retrieved passages used as context for the language model, allowing users to verify how the answer was generated.
 
