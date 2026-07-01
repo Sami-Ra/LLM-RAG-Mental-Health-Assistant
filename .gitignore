@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Packaging / build artefacts
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+
+# Generated vector database
+database/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test / coverage cache
+.pytest_cache/
+.coverage
+
+# Operating system files
+.DS_Store
+Thumbs.db
