@@ -1,4 +1,4 @@
-# LLM-RAG Mental Health Assistant
+# Retrieval-Augmented LLM Assistant
 
 A Retrieval-Augmented Generation (RAG) application that combines semantic retrieval and large language models to answer questions over domain-specific document collections.
 
