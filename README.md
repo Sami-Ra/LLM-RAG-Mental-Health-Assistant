@@ -1,6 +1,6 @@
 # LLM-RAG Mental Health Assistant
 
-A Retrieval-Augmented Generation (RAG) application for question answering over a collection of evidence-based mental health resources.
+A Retrieval-Augmented Generation (RAG) application for question answering over a collection of evidence-based resources.
 
 The application processes PDF documents into a searchable vector database, retrieves the most relevant document passages for a user query, and uses an OpenAI language model to generate responses grounded in the retrieved content. Supporting source passages are displayed alongside each response to improve transparency.
 
